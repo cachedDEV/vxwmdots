@@ -3,13 +3,13 @@
 ## Minimalist, monochrome configuration for vxwm. Built for speed, high contrast, and zero distractions.
 # 📦 Stack
 
-    WM: vxwm
+    WM: vxwm 
 
     Terminal: kitty
 
     Launcher: dmenu
 
-    Compositor: picom
+    Compositor: picom (https://codeberg.org/wh1tepearl/wpicom-conf, for config)
 
     BG/Wallpaper: feh
 
