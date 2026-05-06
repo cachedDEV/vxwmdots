@@ -64,3 +64,8 @@ Xft.antialias: 1
 Xft.rgba: rgb
 
 Built for focus.
+
+
+
+# You may want VIDEO, OR SCREENSHOT SOFTWARE
+## I like scrot for screenshots, I forgot what i used for videos lol but its alg 
