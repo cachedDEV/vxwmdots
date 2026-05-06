@@ -1,6 +1,6 @@
 function fish_prompt
     set_color white
-    echo -n " " # Artix/Arch Icon
+    echo -n " " # mountain
     set_color brblack
     echo -n (prompt_pwd)
     set_color white
