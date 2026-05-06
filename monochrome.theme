@@ -1,0 +1,24 @@
+# btop monochromatic color scheme
+# Colors: Black, White, Deep Gray, Light Gray
+
+theme[main_bg]="#00000000"        # Transparent Background
+theme[main_fg]="#FFFFFF"          # Main text (White)
+theme[title]="#FFFFFF"            # Box titles (White)
+theme[hi_fg]="#CCCCCC"            # Highlights (Light Gray)
+theme[selected_bg]="#333333"      # Selected item background (Deep Gray)
+theme[selected_fg]="#FFFFFF"      # Selected item text (White)
+theme[inactive_fg]="#333333"      # Inactive elements (Deep Gray)
+theme[graph_text]="#CCCCCC"       # Text inside graphs (Light Gray)
+theme[meter_bg]="#333333"         # Meter background (Deep Gray)
+theme[proc_misc]="#CCCCCC"        # Process details (Light Gray)
+theme[cpu_box]="#FFFFFF"          # CPU box outline (White)
+theme[mem_box]="#CCCCCC"          # Mem box outline (Light Gray)
+theme[net_box]="#333333"          # Net box outline (Deep Gray)
+theme[proc_box]="#FFFFFF"         # Process box outline (White)
+theme[div_line]="#333333"         # Divider lines (Deep Gray)
+theme[free_graph]="#FFFFFF"       # Graphs - High (White)
+theme[cached_graph]="#CCCCCC"     # Graphs - Mid (Light Gray)
+theme[available_graph]="#FFFFFF"  # Graphs - Info (White)
+theme[used_graph]="#333333"       # Graphs - Low (Deep Gray)
+theme[download_graph]="#FFFFFF"   # Net Download (White)
+theme[upload_graph]="#CCCCCC"     # Net Upload (Light Gray)
