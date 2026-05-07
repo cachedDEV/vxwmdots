@@ -1,0 +1,45 @@
+{
+    "$schema": "https://github.com",
+    "logo": {
+        "source": "arch_small",
+        "padding": {
+            "top": 1
+        }
+    },
+    "display": {
+        "separator": "  ",
+        "color": {
+            "keys": "magenta" // This makes the icons white in most monochrome themes
+        }
+    },
+    "modules": [
+        "title",
+        "break",
+        {
+            "type": "os",
+            "key": "",
+            "keyColor": "white"
+        },
+        {
+            "type": "kernel",
+            "key": "",
+            "keyColor": "white"
+        },
+        {
+            "type": "wm",
+            "key": "",
+            "keyColor": "white"
+        },
+        {
+            "type": "terminal",
+            "key": "",
+            "keyColor": "white"
+        },
+        "break",
+        {
+            "type": "colors",
+            "symbol": "circle"
+        }
+    ]
+}
+
