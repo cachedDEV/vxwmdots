@@ -23,33 +23,33 @@
 Clone the repository to your local machine:
 Bash
 
-git clone https://github.com/cachedDEV/vxwmdots
-cd vxwmdots
+```git clone https://github.com/cachedDEV/vxwmdots
+cd vxwmdots```
 
 # 2. Move Files
 
 Move the configuration folders to their respective locations in your home directory:
 Bash
 
-cp -r .config/* ~/.config/
-cp .Xresources ~/
+```cp -r .config/* ~/.config/
+cp .Xresources ~/```
 
 ## 3. Build vxwm
 
 Ensure you have a C compiler installed, then build and install the window manager:
-Bash
+```Bash
 
 git clone https://codeberg.org/wh1tepearl/vxwm.git
 cd vxwm
-sudo make clean install
+sudo make clean install```
 
 # 4. Apply Styles
 
 Update your font cache and merge the Xresources to apply the monochrome Caskaydia settings:
 Bash
 
-fc-cache -fv
-xrdb -merge ~/.Xresources
+```fc-cache -fv
+xrdb -merge ~/.Xresources```
 
 # 🖋 Typography
 
