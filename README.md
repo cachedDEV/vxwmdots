@@ -29,6 +29,7 @@ cd vxwmdots```
 # 2. Move Files
 
 Move the configuration folders to their respective locations in your home directory:
+_____________________________________________________________________________________
 Bash
 
 ```cp -r .config/* ~/.config/
